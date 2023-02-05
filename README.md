@@ -1,7 +1,7 @@
 ![I am Python backend developer](https://raw.githubusercontent.com/Sounmay/Sounmay/master/resources/banner.png)
 
-### Hi there 👋, my name is Artem
-#### I am Python backend developer
+### Hi there 👋
+#### My name is Artem. I am Python backend developer
 Contact with me:
 
 <a href="https://t.me/Flopp">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
