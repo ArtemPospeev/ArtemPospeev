@@ -34,4 +34,6 @@ Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flopp30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+LeetCode:
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ArtPos?theme=dark&font=Noto%20Serif%20Hebrew&ext=activity)
